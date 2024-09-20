@@ -28,5 +28,6 @@ class GUI {
         frame.setLayout(null);
         // making the frame visible
         frame.setVisible(true);
+        System.out.println("The programme is done");
     }
 }
