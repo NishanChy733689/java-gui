@@ -1,5 +1,5 @@
 public class hi {
-    public static void main(String[] srgs){
-        System.out.println("I like banana");
+    public static void main(String[] args){
+        System.out.println("I like banana "+"mango");
     }
 }
